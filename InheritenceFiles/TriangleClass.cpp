@@ -1,7 +1,7 @@
 #include "TriangleClass.h"
 
 Triangle::Triangle(int length_a, int length_b, int length_c, int angle_A, int  angle_B, int angle_C) 
-    : Figure("Треугольник", 3),
+    : Figure("РўСЂРµСѓРіРѕР»СЊРЅРёРє", 3),
     length_a(length_a), length_b(length_b), length_c(length_c),
     angle_A(angle_A), angle_B(angle_B), angle_C(angle_C)
     {}
