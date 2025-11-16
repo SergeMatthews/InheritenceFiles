@@ -1,0 +1,7 @@
+.vs/
+x64/
+InheritenceFiles.sln
+/InheritenceFiles/x64/
+InheritenceFiles/InheritenceFiles.vcxproj
+InheritenceFiles/InheritenceFiles.vcxproj.filters
+InheritenceFiles/InheritenceFiles.vcxproj.user
