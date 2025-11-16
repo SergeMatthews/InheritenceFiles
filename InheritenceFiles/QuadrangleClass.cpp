@@ -1,7 +1,7 @@
 #include "QuadrangleClass.h"
 
 Quadrangle::Quadrangle(int length_a, int length_b, int length_c, int length_d,
-    int angle_A, int angle_B, int angle_C, int angle_D) : Figure("Четырёхугольник", 4),
+    int angle_A, int angle_B, int angle_C, int angle_D) : Figure("Р§РµС‚С‹СЂС‘С…СѓРіРѕР»СЊРЅРёРє", 4),
     length_a(length_a), length_b(length_b), length_c(length_c), length_d(length_d),
     angle_A(angle_A), angle_B(angle_B), angle_C(angle_C), angle_D(angle_D)
 {}
